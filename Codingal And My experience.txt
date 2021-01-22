@@ -1,0 +1,32 @@
+About Codingal:
+	Codingal.com
+
+	Codingal started with a dream to inspire school kids to fall in love with coding.
+	Our vision is to empower every child with the knowledge of coding, so that they can build anything they imagine.
+
+	Their Beliefs-
+		1:The future is digital and we believe providing children with the knowledge of coding will safeguard their future.
+
+		2:They encourage children to ask as many questions as possible. We believe a curious mind will do wonders.
+
+		3:They believe that childhood is a wonderful age where valuable thoughts are shaped and through our curriculum They try to inculcate learnings through a fun way.
+
+		4:They want to make learning computer science a fun activity children look forward to. They are constantly working to mke our sessions and activities as interactive and entertaining for the kids as possible.
+
+	Codingal's Social Handles
+		Instagram: codingal.education
+		Linkedin: Codingal
+		Facebook: Codingal
+		Twitter: codingal
+
+	If you are reading this don't forget to participate in the competitions hosted by them.
+
+
+About My experience of the app making contest hosted by codingal(  https://www.codingal.com/competitions/iit-roorkee-e-summit-kids-app-innovation-challenge/  ):
+
+	This competition gave a head start to me this year.
+	I found this competition very intresting.I have told about this competition to some of my friends intrested in programming and they said that they will take part in this competition next time.
+
+
+	I have made a SOS app which can help you in any type of emergency(Accident and Heart attack etc).I got this idea when i saw the statistics of deaths by heart attacks.
+
