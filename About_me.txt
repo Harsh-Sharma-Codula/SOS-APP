@@ -1,0 +1,17 @@
+About Author:
+	Name : Harsh Sharma (Codula)
+	Studying in class 10th
+
+	Favourite stuff to do is Competitive programming,solving Physics Numericals.
+
+	Languages I know :
+		1:C++
+		2:Python
+		3:Learning Java
+
+	Competitive programming sites I use:
+	1:Codechef(https://www.codechef.com/users/codula1)
+	2:Codeforces(https://codeforces.com/profile/Codula)
+	3:Atcoder(https://atcoder.jp/users/Codula)
+	4:Hackerrank(5 start in c++)
+	5:Learning Hackerearth and Leetcode
